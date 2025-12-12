@@ -175,7 +175,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHotovoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ---
 
 
-##Konec
+## Konec
 
 Také jsem se pokoušel automaticky naimportovat hosta pomocí [skriptu](Vagrant/hostImport.sh)
 Bohužel jsem narazil na problém s autorizací a nepodařilo se mi ho vyřešit :(
